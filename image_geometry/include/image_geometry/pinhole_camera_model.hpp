@@ -1,0 +1,6 @@
+#ifndef IMAGE_GEOMETRY__PINHOLE_CAMERA_MODEL_HPP
+#define IMAGE_GEOMETRY__PINHOLE_CAMERA_MODEL_HPP
+
+#include <image_geometry/pinhole_camera_model.h>
+
+#endif // IMAGE_GEOMETRY__PINHOLE_CAMERA_MODEL_HPP
